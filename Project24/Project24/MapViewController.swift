@@ -27,7 +27,7 @@ class MapViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
      
-        print("test commit for another tree")
+        print("test commit for another treeeeeee")
         mapView.showsCompass = true
         locationManager.requestWhenInUseAuthorization()
         
